@@ -1,0 +1,5 @@
+console.log(typeof "imma")
+console.log(typeof "undefined ")
+console.log(typeof "false ")
+console.log(typeof "null ")
+console.log(typeof "5 ")
